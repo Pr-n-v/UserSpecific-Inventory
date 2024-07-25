@@ -1,4 +1,3 @@
-# UserSpecific-Inventory
 # Blockchain based Inventory Management System
 
 ## Overview
