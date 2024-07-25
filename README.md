@@ -26,12 +26,12 @@ This project is a blockchain-based inventory management system implemented in Go
 
     Create a new directory for your project:
     ```sh
-    mkdir myproject
-    cd myproject
+    mkdir my_project_name
+    cd my_project_name
     ```
     Initialize a new Go module (if you haven't already):
     ```sh
-    go mod init myproject
+    go mod init my_project_name
     ```
     Fetch the bcrypt Package:
     
