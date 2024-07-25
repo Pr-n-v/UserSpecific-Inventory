@@ -18,37 +18,38 @@ This project is a blockchain-based inventory management system implemented in Go
 - Go (Golang)
 - `golang.org/x/crypto/bcrypt` for password hashing
 
-##Set Up Your Project:
-
-Create a new directory for your project:
-```sh
-mkdir myproject
-cd myproject
-```
-Initialize a new Go module (if you haven't already):
-```sh
-go mod init myproject
-```
-Fetch the bcrypt Package:
-
-```sh
-go get golang.org/x/crypto/bcrypt
-```
-
-More information for `bcrypt` at: [golang.org/x/crypto/bcrypt](https://pkg.go.dev/golang.org/x/crypto/bcrypt).
-
 ## Setup
 
 1. **Install Go**: Make sure Go is installed on your machine. You can download it from [here](https://golang.org/dl/).
 
-2. **Clone the Repository**: Clone this repository to your local machine.
+2. **Set Up Your Project**:
+
+    Create a new directory for your project:
+    ```sh
+    mkdir myproject
+    cd myproject
+    ```
+    Initialize a new Go module (if you haven't already):
+    ```sh
+    go mod init myproject
+    ```
+    Fetch the bcrypt Package:
+    
+    ```sh
+    go get golang.org/x/crypto/bcrypt
+    ```
+    
+    More information for `bcrypt` at: [golang.org/x/crypto/bcrypt](https://pkg.go.dev/golang.org/x/crypto/bcrypt).
+
+
+3. **Clone the Repository**: Clone this repository to your local machine.
 
 ```sh
 git clone https://github.com/yourusername/blockchain-inventory.git
 cd blockchain-inventory
 ```
 
-3. **Run the Program**: Run the main Go program.
+4. **Run the Program**: Run the main Go program.
 
 ```sh
 go run main.go
