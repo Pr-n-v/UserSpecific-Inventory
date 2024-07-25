@@ -1,4 +1,4 @@
-# Blockchain based Inventory Management System
+# User Specific Inventory Management System
 
 ## Overview
 
