@@ -17,10 +17,22 @@ This project is a blockchain-based inventory management system implemented in Go
 
 - Go (Golang)
 - `golang.org/x/crypto/bcrypt` for password hashing
-  You can install the `bcrypt` password hashing dependency for Go using the following command:
+
+##Set Up Your Project:
+
+Create a new directory for your project:
+```sh
+mkdir myproject
+cd myproject
+```
+Initialize a new Go module (if you haven't already):
+```sh
+go mod init myproject
+```
+Fetch the bcrypt Package:
 
 ```sh
-go install golang.org/x/crypto/bcrypt@latest
+go get golang.org/x/crypto/bcrypt
 ```
 
 More information for `bcrypt` at: [golang.org/x/crypto/bcrypt](https://pkg.go.dev/golang.org/x/crypto/bcrypt).
