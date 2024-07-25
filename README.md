@@ -137,7 +137,7 @@ After logging in, the main menu provides the following options:
 - The system uses bcrypt for password hashing, providing a secure method for storing user passwords.
 - The blockchain ensures the integrity and traceability of all inventory transactions.
 
-##Contributions made by : 
+## Contributions made by : 
 Rohan Anantapur : https://github.com/rohan-0201 
 Sripriya Addanki : https://github.com/sripriya204
 
