@@ -44,16 +44,16 @@ This project is a blockchain-based inventory management system implemented in Go
 
 3. **Clone the Repository**: Clone this repository to your local machine.
 
-```sh
-git clone https://github.com/yourusername/blockchain-inventory.git
-cd blockchain-inventory
-```
+    ```sh
+    git clone https://github.com/yourusername/blockchain-inventory.git
+    cd blockchain-inventory
+    ```
 
 4. **Run the Program**: Run the main Go program.
 
-```sh
-go run main.go
-```
+    ```sh
+    go run main.go
+    ```
 
 ## Usage
 
